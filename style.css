@@ -25,10 +25,6 @@
     margin: 20px;
   }
   
-  .container .tenor-gif-embed {
-    max-width: 200px;
-  }
-  
   .container .btn {
     display: flex;
     gap: 25px;
@@ -41,4 +37,8 @@
     padding: 10px 25px;
     border-radius: 66px;
     box-shadow: 0.5rem 1rem 3rem hsl(0, 0%, 0%, 0.3);
+  }
+
+  .main-img{
+    max-width: 200px;
   }
